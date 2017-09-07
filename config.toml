@@ -1,0 +1,8 @@
+baseURL = "http://sivakon.com/"
+languageCode = "en-us"
+title = "Work "
+theme = "hugo-theme-cactus-plus"
+
+[params]
+    name = "Sivaram Konanki"
+    description = ""
